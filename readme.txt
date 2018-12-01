@@ -27,5 +27,3 @@ asdfasdf
 
 
 halo here here
-
-
